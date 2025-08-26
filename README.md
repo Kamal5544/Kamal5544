@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal Hosen</h1>
-<h3 align="center">Senior Full Stack .NET Developer | Clean Code Enthusiast | Scalable Solutions Architect</h3>
+<h3 align="center">Full Stack .NET Developer | Clean Code Enthusiast | Scalable Solutions Architect</h3>
 
 <p align="center">
   <a href="https://facebook.com/kamalhosen.dev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
